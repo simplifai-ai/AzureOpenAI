@@ -1,0 +1,32 @@
+Bikash Agrawal
+Phone: (47) 456 6666
+Email: bikash.agrawal@simplifai.com
+Website: www.simplifai.ai
+Linkedin: https://www.linkedin.com/in/bikash_agrawal
+Address: 1054 Oslo
+Date of birth: 10-Mar-1984
+Place of Birth: Nepal
+Nationality: Nepal
+
+
+Objective
+Data Scientist with PhD in Big Data and 15+ years of industrial experience. Seven years of working experience in Data Analysis team of LIGO Scientific Collaboration. Over ten years of successful research experience in both theoretical and datascience. Strong problem-solving and analytical skills. Advanced programming proficiency. Certified in Data Analysis and Machine Learning on Azure and AWS services.
+
+Skills
+Azure, Azure AI, Azure ML, Data Mining, Data Analysis, Machine Learning, Python, R, Sphinx, Mathematica,
+Maple, GIT, Azure Custom Vision, Azure Open AI, SPSS, time series.
+
+Work Experience
+
+Data Scientist - ABCD Corporation Jan 2020 – Sept 2023
+Data science manager of ABCD.
+Managing a team of 10 advanced datascientists.
+
+Datascience trainer - XYZ Corporation Sept 2015 – Sept 2019
+Datascience trainer manager
+
+Python programmer - The PyCompany Jan 2008 - August 2015
+Served as an internal resource for Python programming and documentation. Designed and developed small scale deliverables related to the custom study. Responsible for results reporting in the appropriate media and creation of supporting documentation for the client. Monitored products from datascience programs for accuracy, consistency and statistical validity. Designed and applied statistical and mathematical methods for corporate analytics that were implemented into client-facing products. Deep Learning expertise mainly in computer vision with PyTorch.
+
+Misc:
+Guitar, music, programming
