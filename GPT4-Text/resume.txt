@@ -10,23 +10,80 @@ Nationality: Nepal
 
 
 Objective
-Data Scientist with PhD in Big Data and 15+ years of industrial experience. Seven years of working experience in Data Analysis team of LIGO Scientific Collaboration. Over ten years of successful research experience in both theoretical and datascience. Strong problem-solving and analytical skills. Advanced programming proficiency. Certified in Data Analysis and Machine Learning on Azure and AWS services.
+My background in AI, Machine Learning, and Big Data solutions, with over 15+ years of experience across different industries. I have Ph.D. in "Scalable Data Processing and Analytical Approach for Big Data Cloud Platform."
+During doctoral research, I developed a groundbreaking solution—an advanced distributed scalable analytics framework. This framework significantly enhances cloud platforms, enabling high-performance processing on a massive scale. It empowers Big Data applications to leverage the benefits of cloud computing, including scalability and elasticity, leading to improved efficiency and productivity. Furthermore, my thesis introduces a cutting-edge method for permanently deleting data stored by Big Data applications, addressing a crucial aspect of data management and security.
+With this extensive knowledge and innovative solutions, I am well-positioned to assist startups in building robust data products for their customers, providing them with a competitive edge in today's data-driven landscape. My expertise is a valuable asset to any team or project aiming to excel in the realm of AI, Machine Learning, and Big Data solutions.
 
 Skills
-Azure, Azure AI, Azure ML, Data Mining, Data Analysis, Machine Learning, Python, R, Sphinx, Mathematica,
-Maple, GIT, Azure Custom Vision, Azure Open AI, SPSS, time series.
+Azure, Azure AI, Azure ML, Data Mining, Data Analysis, Machine Learning, Python, R, Sphinx, Mathematica, GIT, Azure Custom Vision, Azure Open AI, time series.
 
 Work Experience
+Organization: Simplifai
+Position: Head Of Research And Development
+Duration: Jan 2022 - Present (2 yrs 4 mos)
+Location: Oslo, Norway
+Responsibilities:
+Develop and execute the strategic vision for AI research and development initiatives, aligning with the company's goals and market trends.
+Define and prioritize research areas, exploring novel algorithms, methodologies, and models to address complex NLP/LLM challenges.
+Oversee the end-to-end execution of AI research and development projects, ensuring timely delivery, quality assurance, and alignment with project objectives.
+Recruit, mentor, and inspire a high-performing team of AI researchers, engineers, and developers.
+Collaborate cross-functionally with other departments, such as product management, marketing, and business development, to integrate AI capabilities into our products and services.
+Chief Data Scientist
 
-Data Scientist - ABCD Corporation Jan 2020 – Sept 2023
-Data science manager of ABCD.
-Managing a team of 10 advanced datascientists.
+Organization: Simplifai
+Duration: May 2018 - Aug 2023 (5 yrs 4 mos)
+Location: Oslo (On-site)
+Responsibilities:
+Building data products based on deep learning and NLP that helps to automate business processes in various industrial sectors such as Banking, Insurance, etc.
+Architecture of the Data Science pipeline from the research phase to the production environment.
+End-to-End design of Data Science stack.
+Project management, including task and resource planning.
+Research and development of data science projects.
+Integration of APIs with different third-party systems.
+Data Scientist
 
-Datascience trainer - XYZ Corporation Sept 2015 – Sept 2019
-Datascience trainer manager
+Organization: DNV GL
+Duration: Oct 2016 - May 2018 (1 yr 8 mos)
+Location: Oslo Area, Norway
+Responsibilities:
+Data Ingestion Pipeline for Big Data Platform (Lambda Architecture) Apache Kafka, Spark, Hadoop, Python
+Windfarm Asset BI for the energy portfolio
+Ph.D. Research Fellow
 
-Python programmer - The PyCompany Jan 2008 - August 2015
-Served as an internal resource for Python programming and documentation. Designed and developed small scale deliverables related to the custom study. Responsible for results reporting in the appropriate media and creation of supporting documentation for the client. Monitored products from datascience programs for accuracy, consistency and statistical validity. Designed and applied statistical and mathematical methods for corporate analytics that were implemented into client-facing products. Deep Learning expertise mainly in computer vision with PyTorch.
+Organization: University of Stavanger
+Duration: Oct 2013 - Sep 2016 (3 yrs)
+Location: Stavanger Area, Norway
+Responsibilities:
+Scalable data processing and analytical approach in Big Data Cloud.
+Programming Languages: Java, Python, R
+Technology: Hadoop, HBase, OpenTSDB, Apache Spark, Apache Mesos, Docker, Ambari, Nifi, Kafka
+Failure prediction in Hadoop cluster using HMM.
+Anomalies detection in Cloud infrastructure in real-time with AWS CloudWatch metrics.
+R2Time: A Framework to Analyze Open TSDB Time-Series Data in HBase.
+Co-Founder and CTO
+
+Organization: Boost AI
+Duration: Apr 2016 - Aug 2016 (5 mos)
+Location: Stavanger Area, Norway
+Responsibilities: Part of developing team - Virtual assistant James (chatbot) using Torch framework: Deep learning, stacked LSTM
+Visiting Scholar
+
+Organization: Purdue University
+Duration: Oct 2015 - Mar 2016 (6 mos)
+Location: West Lafayette
+Responsibilities:
+Programming Languages: Java, Python, R
+Technology: Hadoop, HBase, OpenTSDB, Apache Spark, Amazon, NiFi, OpenCV, Django
+Implementation of Secure Deletion in HDFS worked with Prof. Raymond Hansen.
+Cam2 project resource management in the Big Data Cloud worked with Prof. Thomas Hacker.
+End-to-End data tracking in IoT using Apache NiFi.
+Backend Developer
+
+Organization: Future Home A/S
+Duration: Jul 2013 - May 2014 (11 mos)
+Location: Stavanger Area, Norway
+Responsibilities: Security, Web Interface, Database
+Programming Languages: PHP, JavaScript, MySQL, C++
 
 Misc:
 Guitar, music, programming
